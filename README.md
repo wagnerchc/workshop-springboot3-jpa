@@ -1,6 +1,6 @@
 # Java com Springboot 3 e JPA/Hibernate
 
-![Static Badge](https://img.shields.io/badge/license-MIT)(https://github.com/wagnerchc/workshop-springboot3-jpa/blob/main/LICENSE)
+[![Static Badge](https://img.shields.io/badge/license-GNU-green)](https://github.com/wagnerchc/workshop-springboot3-jpa/blob/main/LICENSE)
 
 Projeto do curso de Java com Spring Boot 3 e JPA / Hibernate
 
@@ -10,7 +10,7 @@ Aplicação backend em Java utilizando Springboot 3 e JPA / Hibernate / banco H2
 
 ## Modelo conceitual
 
-![Modelo Conceitual](https://drive.google.com/file/d/1wjWK_3o684jILx9TKRv7cSlfdgFVwla2/view)
+![Modelo Conceitual](https://github.com/wagnerchc/assets/blob/main/github-projects-img/git-workshop-springboot3-jpa-modelo-conceitual.jpg)
 
 # Tecnologias utilizadas
 
